@@ -24,3 +24,8 @@ defaults:
       type: "posts"
     values:
       layout: single
+      
+collections:
+  pages:
+    output: true
+    permalink: /:path/
