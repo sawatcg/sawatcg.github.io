@@ -1,6 +1,7 @@
 title: "Sawa's blog on Card Games"
 description: "A blog about Card Games and Related Topics"
 url: "https://sawatcg.github.io"
+baseurl: "/sawa.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 plugins:
