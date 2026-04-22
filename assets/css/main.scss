@@ -1,0 +1,17 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+
+.page__content p {
+  font-size: 1.1em;
+  line-height: 1.8;
+}
