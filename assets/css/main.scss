@@ -16,8 +16,10 @@ body {
   line-height: 1.8;
 }
 
-.wide #main {
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 0 2em;
+.layout--single.wide .page {
+  float: none !important;
+  width: 100% !important;
+  max-width: 800px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
