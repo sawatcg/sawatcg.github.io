@@ -31,3 +31,9 @@ body {
 .page__content {
   width: 100%;
 }
+
+.wide .page__inner-wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  float: none;
+}
