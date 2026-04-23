@@ -8,7 +8,7 @@ Here you will find all the ressources regading custom cards and fanmade sets on 
 
 ## Available Sets
 
-- [SAW Teaser](/first-set-teaser/)
+- [SAW Teaser](/saw-set-teaser/)
 - More custom cards and sets coming soon.
 
   
