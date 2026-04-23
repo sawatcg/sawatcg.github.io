@@ -14,6 +14,9 @@ These illustrations would not have been possible without the amazing work of *Po
 
 > **Disclaimer:** *As you'll notice, these designs are generally on the simpler side, and I would not be surprised if Equinox has already explored some of these ideas internally. This is very much an early draft. I still intend to test and rebalance all of the cards, and some of them will likely be revised quite a bit.*
 
+> <span style="color: #e8a020;"> The card illustrations were generated using the automated CSV-to-Card tool from [altered-db](https://altered-db.com/). As this feature is still a work in progress, some elements are not display correctly. Improvements are on the way. text</span>
+
+
 ## Set Mechanics
 
 I wanted this set to remain accessible by introducing neither new heroes nor new keywords, while still adding enough strategic depth to meaningfully shake up the way the game is played. To reconcile these two seemingly contradictory goals, I chose to revisit existing mechanics and push them into spaces that have not yet been fully explored. Below is a brief overview of the core mechanics behind the set.
