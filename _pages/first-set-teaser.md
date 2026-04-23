@@ -3,6 +3,16 @@ title: "First Set Teaser"
 permalink: /first-set-teaser/
 layout: single
 classes: wide
+gallery1:
+  - image_path: /assets/images/first-set-teaser/PaidinKind.png
+  - image_path: /assets/images/first-set-teaser/OrdisLawKeeper.png
+gallery2:
+  - image_path: /assets/images/first-set-teaser/ManaFly.png
+  - image_path: /assets/images/first-set-teaser/ChaseTheLights.png
+gallery3:
+  - image_path: /assets/images/first-set-teaser/Hypnos.png
+  - image_path: /assets/images/first-set-teaser/MedidationRetrat.png
+---
 ---
 
 
@@ -26,7 +36,7 @@ I wanted this set to remain accessible by introducing neither new heroes nor new
 
 Exhausting Landmark Permanents and Heroes has existed since the  coreset. Few months after, *Trial By Frost* introduced the possibility of exhausting cards in Reserve, and since the release of *Seeds of Unity* one year after, Expedition Permanents can also be exhausted, making them the first cards in the Expedition zone to fill that design space. Characters, despite being Altered’s main card type, have not yet been explored in that way; at least outside of the Reserve. What should it mean for a character in play to become exhausted ? If making a card exhausted implies that it becomes unusable, then it seems natural for a character affected in this way to also become unusable in some form, but in a way that should be distinct from the **Asleep** mechanic. Without any further a due, let’s take a look at what this mechanic actually does.
 
-[Illustration 1 ; Illustration 2]
+{% include gallery id="gallery1" %}
 
 This kind of mechanic has already been explored in other TCGs, though I’ll remain *silent* on the most obvious comparison, but Altered offers a particularly natural way to make it its own. While the core idea is quite simple, some edge cases may still need clarification; a full blog post would be the right place to discuss the mechanic in detail, but for now I will stick to the following two essential points :
 
@@ -40,7 +50,7 @@ Later, in the dedicated section, you will find how each faction makes use of thi
 
 One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it, making it one of the game’s richest design spaces. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they  are still abstent in Reserve. This set aims to address that gap.
 
-Illustrations (1+2) : ManaFly Token / Chase the Lights /
+{% include gallery id="gallery2" %}
 
 For the sake of simplicity, this set introduces only one type of Reserve token: the Manafly Reserve token, a sibling to the Manamoth Character token. Put simply, creating a Manafly Reserve token functions like a non-random form of **Resupply**, except that it does not cycle through the deck to dig for specific cards.   That said, this space has plenty of room to grow and future sets could easily explore other kinds of Reserve tokens (be prepared for Spell Reserve Token, just sayin' !) and who knows, we may one day even see new Heroes built around creating them ! 
 
@@ -48,7 +58,7 @@ For the sake of simplicity, this set introduces only one type of Reserve token: 
 
 Just as this set allows tokens to be created in Reserve, it also opens the door to giving status effects to Character cards while they are in Reserve—most notably Anchored and Asleep.
 
-Illustrations: Hypnos, Meditation Retreat
+{% include gallery id="gallery3" %}
 
 Conceptually, this sub-mechanic works much like giving boosts to Characters in Reserve. This set only begins to explore that design space, and it would not be surprising to see it expanded further in future fanmade sets.
 
