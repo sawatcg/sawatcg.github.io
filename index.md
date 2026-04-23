@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Sawa's blog on Card Games"
-excerpt: " A simple blog where I shared my design and analysis on various Card Games"
+excerpt: "A place where I share my thoughts and musings on Card Games"
 header:
   overlay_color: "#111111"
   actions:
