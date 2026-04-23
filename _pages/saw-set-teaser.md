@@ -40,7 +40,7 @@ Later, in the dedicated section, you will find how each faction makes use of thi
 
 ### Tokens in Reserve
 
-One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they are still absent from Reserve. This set aims to address that gap.
+One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they are still absent from Reserve, making it, to my knowledge, the first physical TCG to handle tokens outside the board in a truly elegant way.
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/ManaFly.png" alt="Mana Fly">
