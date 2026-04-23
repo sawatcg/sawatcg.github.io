@@ -29,9 +29,9 @@ Exhausting Landmark Permanents and Heroes has existed since the core set. A few 
 
 This kind of mechanic has already been explored in other TCGs, though I'll remain *silent* on the most obvious comparison, but Altered offers a particularly natural way to make it its own. While the core idea is quite simple, some edge cases may still need clarification; a full blog post would be the right place to discuss the mechanic in detail, but for now I will stick to the following two essential points:
 
-> A character already in play does not lose any pre-existing status when it becomes exhausted. If a character is already Anchored, Asleep, Fleeting, or Boosted when it becomes exhausted, it keeps that status.
+- A character already in play does not lose any pre-existing status when it becomes exhausted. If a character is already Anchored, Asleep, Fleeting, or Boosted when it becomes exhausted, it keeps that status.
 
-> On the other hand, a character that **enters play exhausted** does not trigger its {H}, {J}, or {R} abilities. Similarly, an exhausted character does not trigger its "when I leave the Expedition" or "when I go to Reserve" effects when it leaves the Expedition.
+- On the other hand, a character that **enters play exhausted** does not trigger its {H}, {J}, or {R} abilities. Similarly, an exhausted character does not trigger its "when I leave the Expedition" or "when I go to Reserve" effects when it leaves the Expedition.
 
 Later, in the dedicated section, you will find how each faction makes use of this mechanic in its own distinct way.
 
