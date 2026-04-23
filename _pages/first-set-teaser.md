@@ -1,13 +1,4 @@
 
----
-title: "*Smiles After Weeping* Teaser"
-excerpt: "an Altered Fanmade set by *Sawa*"
-permalink: /first-set-teaser/
-layout: single
-classes: wide
-
-
----
 title: "*Smiles After Weeping* Teaser"
 excerpt: "Your subtitle here"
 permalink: /first-set-teaser/
