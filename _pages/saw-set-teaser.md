@@ -74,12 +74,14 @@ In *Smiles After Weeping*, Axiom gives the exhaust mechanic a distinctly faction
   <img src="/assets/images/first-set-teaser/008_CUSTOM_008.png" alt="Hotaru-Gari">
 </div>
 
+*The Watchpost* is Axiom's new fortress. Its Rare version will have higher costs than the Common revealed version.  Can you guess its text?
+
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/010_CUSTOM_010.png" alt="Yuri Locomotive Engineer">
   <img src="/assets/images/first-set-teaser/009_CUSTOM_009.png" alt="The Watchpost">
 </div>
 
-*The Watchpost* is Axiom's new fortress. Its Rare version (not yet revealed) will have higher costs than the Common Revealed Version.  Can you guess its text?
+
 
 ### Bravos
 
@@ -90,6 +92,8 @@ Bravos, on its side, uses the exhaust mechanic to let its strong characters ente
   <img src="/assets/images/first-set-teaser/012_CUSTOM_012.png" alt="Null Mantle">
   <img src="/assets/images/first-set-teaser/013_CUSTOM_013.png" alt="Bravos Outland Trooper">
 </div>
+
+Just like the *Minikhlut* below, look out for cubs, siblings, and variants of iconic Bravos characters making a surprise appearance in this set ! 
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/014_CUSTOM_014.png" alt="Minikhlut">
@@ -132,13 +136,15 @@ On top of that, Muna will willingly trade some of its own advantages in order to
 
 ### Ordis
 
-As they push further into the unknown, Ordis uncovers the Cloning Vat, a mysterious artifact whose power allows the faction to replicate objects and life. In this set, Ordis' identity revolves around cloning and the highly synergistic possibilities it unlocks.
+As they push further into the unknown, Ordis uncovers *the Cloning Vat*, a mysterious artifact whose power allows the faction to replicate objects and life. In this set, Ordis' identity revolves around cloning and the highly synergistic possibilities it unlocks.
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/026_CUSTOM_026.png" alt="The Counterfeiter">
     <img src="/assets/images/first-set-teaser/028_CUSTOM_028.png" alt="Crowded Out">
   <img src="/assets/images/first-set-teaser/027_CUSTOM_027.png" alt="The Echo Casket">
 </div>
+
+Sometimes, the best strategies are the ones you can scale to your needs and *Xif the X Factor* is here to answer that call. 
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/029_CUSTOM_029.png" alt="Xif, the X Factor">
@@ -164,6 +170,6 @@ While Yzmir uses the exhaust mechanic to disrupt its opponents' game plan, it al
 
 ## Concluding Remarks
 
-Thanks a lot for reading. I would love to hear what you think, so feel free to share your thoughts, feedback, or favorite designs on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b). And if these ideas inspire you to create customs of your own around these mechanics, please do share them there, I would be very happy to see what others come up with. More reveals are on the way, so stay tuned!
+Thanks a lot for reading. I would love to hear what you think, so feel free to share your feedback, or favorite designs on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b). And if these ideas inspire you to create customs of your own around these mechanics, I would be very happy to see them. More reveals are on the way, so stay tuned!
 
 *This article was written by Sawa. Altered is the property of Equinox.*
